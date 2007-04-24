@@ -1,0 +1,12 @@
+
+#ifndef __OBW_CONFIG_H
+
+#define  __OBW_CONFIG_H
+
+#define OBW_CONF_FILE "@sysconfdir@/obwman/obwman.conf"
+#define OBW_TMP_FILE "@localstatedir@/spool/obwman/tmp.XXXXXX"
+#define OBW_CLASSES_FILE "@localstatedir@/spool/obwman/classes"
+#define OBW_PID_FILE "@localstatedir@/run/obwman.pid"
+#define OBW_LOG_FILE "@localstatedir@/log/obwman.log"
+
+#endif 
