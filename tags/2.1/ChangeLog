@@ -1,0 +1,12 @@
+obwman (2.1)
+
+  * fixes problems with traffic leaking from rules
+ 
+ -- Michal J. Kubski <okon@borek.pl>  Wed, 20 Dec 2006 23:30:00 +0100
+
+obwman (2.0)
+
+  * heavily refactored release
+
+ -- Michal J. Kubski <okon@borek.pl>  Fri, 13 Oct 2006 23:16:06 +0200
+
