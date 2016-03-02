@@ -21,10 +21,13 @@ obwman is a free software. You may use and/or redistribute copies of it under th
 
 After downloading and unpacking the source code you need only to execute:
 
+```
 ./configure --prefix=/usr --localstatedir=/var --sysconfdir=/etc
 make
 make install
-Dependencies
+```
+
+#### Dependencies
 
 Recent Linux kernel version (2.4.22 should make it, but 2.6.15+ were not tested thoroughly) built with IMQ, HTB, SFQ enabled.
 
